@@ -18,12 +18,19 @@ html, body {
     padding: 0;
 }
 
+body.fixedsys-default {
+    padding: 2px;
+    background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAACCAYAAABytg0kAAAAGElEQVQYV2M8c+bMfxMTE0ZGBgYGBhAHAEPkB2ZUl3wJAAAAAElFTkSuQmCC) repeat;
+}
+
 .fixedsys-default h1,
 .fixedsys-default h2,
 .fixedsys-default h3,
 .fixedsys-default h4,
 .fixedsys-default h5,
 .fixedsys-default h6 {
+    margin: 0;
+    padding: 0;
     font-weight: normal !important;
     font-size: 16px !important;
 }
@@ -45,17 +52,63 @@ html, body {
 }
 
 .fixedsys-default a:hover {
-    color: #00C;
+    color: #00F;
     font-size: 16px !important;
     text-decoration: underline;
 }
 
+.fixedsys-default img {
+    vertical-align: middle;
+}
+
 .fixedsys-default ul {
     margin: 0;
-    padding: 0;
+    padding: 0 0 0 16px;
     list-style-type: none;
+}
+
+.fixedsys-default li {
+    word-break: break-all;
 }
 
 .fixedsys-default li:before {
     content: "- ";
+    margin-left: -16px;
+}
+
+div.fixedsys-default {
+    padding: 11px ;
+    border: 2px solid #777;
+    margin: 3px;
+    box-shadow: 1px 1px 1px #AAA;
+    background: #FFF;
+}
+
+div.fixedsys-footer {
+    color: #999;
+    padding: 0px 16px !important;
+}
+
+img.fixedsys-thumbnail-align-left {
+    float: left !important;
+    width: 32px !important;
+    height: 32px !important;
+    margin: 0 8px 0 0;
+}
+
+/**
+ * Thanks to: https://github.com/IonicaBizau/gridly
+ */
+.fixedsys-row { display: flex; }
+.fixedsys-column { flex: 1; }
+@media (max-width: 48em) {
+    .fixedsys-row { flex-direction: column; }
+    .fixedsys-column { flex: 0 0 auto; }
+}
+@media (min-width: 48em) {
+    .fixedsys-column-tenth { flex: 0 0 10%; }
+    .fixedsys-column-fifth { flex: 0 0 20%; }
+    .fixedsys-column-quarter { flex: 0 0 25%; }
+    .fixedsys-column-third { flex: 0 0 33.3333334%; }
+    .fixedsys-column-half { flex: 0 0 50%; }
 }
