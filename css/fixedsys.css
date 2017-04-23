@@ -1,0 +1,61 @@
+
+@font-face {
+    font-family: 'fixedsys';
+    src: url('../fonts/fsex300-webfont.eot');
+    src: url('../fonts/fsex300-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/fsex300-webfont.woff') format('woff'),
+    url('../fonts/fsex300-webfont.ttf') format('truetype'),
+    url('../fonts/fsex300-webfont.svg#fixedsys') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    -webkit-font-smoothing: none;
+    -moz-osx-font-smoothing: none;
+    font-smooth: never;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.fixedsys-default h1,
+.fixedsys-default h2,
+.fixedsys-default h3,
+.fixedsys-default h4,
+.fixedsys-default h5,
+.fixedsys-default h6 {
+    font-weight: normal !important;
+    font-size: 16px !important;
+}
+
+.fixedsys-default {
+    font-family: 'fixedsys' !important;
+    font-size: 16px !important;
+}
+
+.fixedsys-default small {
+    color: #999;
+    font-size: 16px !important;
+}
+
+.fixedsys-default a {
+    color: #00A;
+    font-size: 16px !important;
+    text-decoration: none;
+}
+
+.fixedsys-default a:hover {
+    color: #00C;
+    font-size: 16px !important;
+    text-decoration: underline;
+}
+
+.fixedsys-default ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+.fixedsys-default li:before {
+    content: "- ";
+}
