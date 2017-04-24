@@ -1,7 +1,7 @@
 
 @font-face {
     font-family: 'fixedsys';
-    src: url('../fonts/fsex300-webfont.eot');
+    src: url('fonts/../../fonts/fsex300-webfont.eot');
     src: url('../fonts/fsex300-webfont.eot?#iefix') format('embedded-opentype'),
     url('../fonts/fsex300-webfont.woff') format('woff'),
     url('../fonts/fsex300-webfont.ttf') format('truetype'),
