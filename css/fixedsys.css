@@ -29,7 +29,7 @@ body.fixedsys-default {
 .fixedsys-default h4,
 .fixedsys-default h5,
 .fixedsys-default h6 {
-    margin: 0;
+    margin: 0 0 8px 0;
     padding: 0;
     font-weight: normal !important;
     font-size: 16px !important;
@@ -89,6 +89,11 @@ div.fixedsys-default {
     background: #FFF;
 }
 
+div.fixedsys-console {
+    background: #222;
+    color: #AAA;
+}
+
 div.fixedsys-footer {
     color: #999;
     padding: 0px 16px !important;
@@ -99,6 +104,15 @@ img.fixedsys-thumbnail-align-left {
     width: 32px !important;
     height: 32px !important;
     margin: 0 8px 0 0;
+}
+
+.fixedsys-inline {
+    display: inline !important;
+}
+
+.fixedsys-pull-right {
+    float:right;
+    margin: 0 0 0 8px;
 }
 
 /**
