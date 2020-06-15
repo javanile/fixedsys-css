@@ -17,3 +17,7 @@ In Windows 95, 98, and Windows Me, Fixedsys remains as the default font for Note
 Due to its clean style and easy readability, it has enjoyed some popularity with the programming community, even giving rise to an imitation font — Fixedsys Excelsior — which, based on the original Fixedsys typeface, also includes a large number of Unicode script ranges.[1]
 
 There is a certain amount of similarity between Fixedsys and Chicago, the default system typeface on the Apple Macintosh between 1984 and 1997. The key difference is that Chicago is a proportional typeface while Fixedsys is monospaced.
+
+## See Also
+
+-    <http://laemeur.sdf.org/fonts/>
