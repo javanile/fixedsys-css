@@ -2,7 +2,7 @@
 
 ## Fixedsys font
 
-<img alt="Fixedsysfontpreview.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Fixedsysfontpreview.svg/220px-Fixedsysfontpreview.svg.png" width="220" height="260">
+<img alt="Fixedsysfontpreview.svg" align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Fixedsysfontpreview.svg/220px-Fixedsysfontpreview.svg.png" width="220" height="260">
 
 Fixedsys is a family of raster monospaced fonts. The name means fixed system, because its glyphs are monospace or fixed-width (although bolded characters are wider than non-bolded, unlike other monospace fonts such as Courier). It is the oldest font in Windows, and was the system font in Windows 1.0 and 2.0, where it was simply named "System". For Windows 3.x, the system font was changed to a proportional sans-serif font named System, but Fixedsys remained the default font in Notepad.
 
