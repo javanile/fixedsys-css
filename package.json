@@ -1,6 +1,6 @@
 {
   "name": "fixedsys-css",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "license": "MIT",
   "author": {
     "name": "Francesco Bianco",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/francescobianco/fixedsys-css.git"
+    "url": "https://github.com/javanile/fixedsys-css.git"
   },
   "scripts": {
     "test": "mocha --reporter spec --recursive | sed '/^\\s*$/d'",
