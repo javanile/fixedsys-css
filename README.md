@@ -18,6 +18,45 @@ Due to its clean style and easy readability, it has enjoyed some popularity with
 
 There is a certain amount of similarity between Fixedsys and Chicago, the default system typeface on the Apple Macintosh between 1984 and 1997. The key difference is that Chicago is a proportional typeface while Fixedsys is monospaced.
 
+## Quick start
+   
+Several quick start options are available:
+   
+* [Download the latest release](https://github.com/javanile/fixedsys-css/archive/refs/heads/main.zip)
+* Clone the repo: `git clone https://github.com/javanile/fixedsys-css.git`
+* Install with npm: `npm install fixedsys-css`
+* Install with yarn: `yarn add fixedsys-css`
+* Include from CDN: `<link rel="stylesheet" href="https://unpkg.com/fixedsys-css/css/fixedsys.css">`
+
+## Usage
+
+You can use the following code to get old fashion style on your project.
+
+```html
+<div class="font-fixedsys">
+    Hello World!
+</div>
+```
+
+```css
+.old-fashion-message {
+    font-family: fixedsys;
+    font-size: 16px;
+}
+```
+
+## Themes
+
+You can use our general-purpose themes
+
+* Default theme
+* Dark theme
+
+## Credits
+
+Special Thanks to [Adam Moore (LÆMEUR)](laemeur.sdf.org)
+
 ## See Also
 
--    <http://laemeur.sdf.org/fonts/>
+- <https://en.wikipedia.org/wiki/Fixedsys>
+- <http://laemeur.sdf.org/fonts/>
