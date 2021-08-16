@@ -1,4 +1,4 @@
-# fixedsys-css
+# Fixedsys (a CSS font family)
 
 ## Fixedsys font
 
@@ -49,8 +49,8 @@ You can use the following code to get old fashion style on your project.
 
 You can use our general-purpose themes
 
-* Default theme
-* Dark theme
+* [Default theme](https://fixedsys.javanile.org/test/default)
+* [Dark theme](https://fixedsys.javanile.org/test/dark)
 
 ## Credits
 
