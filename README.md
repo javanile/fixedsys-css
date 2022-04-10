@@ -8,6 +8,8 @@ Fixedsys is a family of raster monospaced fonts. The name means fixed system, be
 
 Fixedsys fonts family contains fonts encoded in several Windows code pages, with multiple resolutions of the font for each code page. Fixedsys fonts of different code pages have different point sizes.
 
+<details>
+<summary>Continue reading...</summary>
 The glyphs for the upper areas of each one appear to be drawn separately, not taken from a single master set, as there are visible differences in the appearance of various visually similar characters that are shared between the code pages.
 
 Though Fixedsys is a sans-serif font, it is vaguely similar in appearance to the hardware text mode font of most IBM-compatible PCs, though not as similar as certain sizes of Terminal fonts seen in Windows.
@@ -17,6 +19,7 @@ In Windows 95, 98, and Windows Me, Fixedsys remains as the default font for Note
 Due to its clean style and easy readability, it has enjoyed some popularity with the programming community, even giving rise to an imitation font — Fixedsys Excelsior — which, based on the original Fixedsys typeface, also includes a large number of Unicode script ranges.[1]
 
 There is a certain amount of similarity between Fixedsys and Chicago, the default system typeface on the Apple Macintosh between 1984 and 1997. The key difference is that Chicago is a proportional typeface while Fixedsys is monospaced.
+</details>
 
 ## Quick start
    
