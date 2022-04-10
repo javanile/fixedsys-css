@@ -1,6 +1,6 @@
 <div align="center">
   
-# Fixedsys (a CSS font family) 
+# Fixedsys
 ***Old Fashion CSS Framework for nostalgics***
   
 [![npm version](https://badge.fury.io/js/fixedsys-css.svg)](https://badge.fury.io/js/fixedsys-css)
