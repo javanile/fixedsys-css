@@ -67,7 +67,7 @@ You can use our general-purpose themes
 
 ## Credits
 
-Special Thanks to [Adam Moore (LÆMEUR)](laemeur.sdf.org)
+Special Thanks to [Adam Moore (LÆMEUR)](https://laemeur.sdf.org)
 
 ## See Also
 
