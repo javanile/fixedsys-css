@@ -1,10 +1,11 @@
 <div align="center">
   
 # Fixedsys (a CSS font family) 
-Old Fashion CSS Framework for nostalgics
+Old Fashion CSS Framework for nostalgics  
+  
 [![npm version](https://badge.fury.io/js/fixedsys-css.svg)](https://badge.fury.io/js/fixedsys-css)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![PR's welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)]](https://github.com/javanile/fixedsys-css/pulls)
+[![PR's welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/javanile/fixedsys-css/pulls)
   
 </div>
 
