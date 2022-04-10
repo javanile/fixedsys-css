@@ -10,7 +10,7 @@ Fixedsys fonts family contains fonts encoded in several Windows code pages, with
 
 <details>
   <summary>Continue reading...</summary>
-  <br><br>
+  <br>
   The glyphs for the upper areas of each one appear to be drawn separately, not taken from a single master set, as there are visible differences in the appearance of various visually similar characters that are shared between the code pages.
 
   Though Fixedsys is a sans-serif font, it is vaguely similar in appearance to the hardware text mode font of most IBM-compatible PCs, though not as similar as certain sizes of Terminal fonts seen in Windows.
