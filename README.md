@@ -43,7 +43,9 @@ Several quick start options are available:
 
 ## Support us
 
-No money, a tweet is what we need! Use this button to share our work on Twitter, help us increase the visibility of this project. Thanks!
+No money, a tweet is what we need! Use this button to share our work on Twitter, help us increase the visibility of this project. 
+It is a small effort that we ask of you, it helps our team to have credibility and to be able to acquire new customers for our services.
+Thanks!
 
 ## Usage
 
