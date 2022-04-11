@@ -41,6 +41,10 @@ Several quick start options are available:
 * Install with yarn: `yarn add fixedsys-css`
 * Include from CDN: `<link rel="stylesheet" href="https://unpkg.com/fixedsys-css/css/fixedsys.css">`
 
+## Support us
+
+No money, a tweet is what we need! Use this button to share our work on Twitter, help us increase the visibility of this project. Thanks!
+
 ## Usage
 
 You can use the following code to get old fashion style on your project.
