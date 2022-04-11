@@ -46,7 +46,9 @@ Several quick start options are available:
 > No money, a tweet is what we need! Use this button to share our work on Twitter, help us increase the visibility of this project. 
 > It is a small effort that we ask of you, it helps our team to have credibility and to be able to acquire new customers for our services.
 > Thanks!  
-> <div align="center">[![Share on Twitter](https://img.shields.io/badge/-share%20on%20twitter-blue?logo=twitter&style=for-the-badge)](https://twitter.com/intent/tweet?text=Fixedsys%20is%20a%20family%20of%20raster%20monospaced%20fonts.%20The%20name%20means%20fixed%20system%2C%20because%20its%20glyphs%20are%20monospace%20or%20fixed-width%20%20%23CSSFramework%20%23Bulma%20%23CSS%20%23BEM%20%23DEVCommunity%20%23GirlsWhoCode%20%23WomanInTech%20%23Retrocomputing%20%23Retrogaming%20%23Bootstrap%20%23foundation%0A%40francescobianco%20%40javanile%0Ahttps%3A%2F%2Fgithub.com%2Fjavanile%2Ffixedsys-css)</div>
+<div align="center">
+  [![Share on Twitter](https://img.shields.io/badge/-share%20on%20twitter-blue?logo=twitter&style=for-the-badge)](https://twitter.com/intent/tweet?text=Fixedsys%20is%20a%20family%20of%20raster%20monospaced%20fonts.%20The%20name%20means%20fixed%20system%2C%20because%20its%20glyphs%20are%20monospace%20or%20fixed-width%20%20%23CSSFramework%20%23Bulma%20%23CSS%20%23BEM%20%23DEVCommunity%20%23GirlsWhoCode%20%23WomanInTech%20%23Retrocomputing%20%23Retrogaming%20%23Bootstrap%20%23foundation%0A%40francescobianco%20%40javanile%0Ahttps%3A%2F%2Fgithub.com%2Fjavanile%2Ffixedsys-css)
+</div>
 
 
 ## Usage
