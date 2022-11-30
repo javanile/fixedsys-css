@@ -13,22 +13,6 @@
     font-smooth: never;
 }
 
-html, body {
-    margin: 0;
-    padding: 0;
-    background: #000000;
-    color: #a8a8a8;
-}
-
-body > div {
-    margin: 16px 8px !important;
-}
-
-h1, h2, h3, h4, h5, h6 {
-    color: #ffffff;
-    margin-bottom: 16px;
-}
-
 * {
     font-family: 'fixedsys' !important;
     font-size: 16px !important;
@@ -36,4 +20,92 @@ h1, h2, h3, h4, h5, h6 {
     text-decoration: none;
     margin: 0;
     padding: 0;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    background: #000000;
+    color: #a8a8a8;
+}
+
+body > div,
+body > section,
+body > header {
+    margin: 16px 8px !important;
+    max-width: 640px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #ffffff;
+    margin-bottom: 16px;
+}
+
+a, a:link {
+    color: #61D6D6;
+}
+
+a:hover {
+    color: #3A96DD;
+}
+
+ul {
+    padding-left: 24px;
+    margin-bottom: 16px;
+}
+
+ol {
+    padding-left: 32px;
+    margin-bottom: 16px;
+}
+
+ul > li {
+    list-style-type: "- ";
+}
+
+p {
+    margin-bottom: 16px;
+}
+
+hr {
+    height: 16px;
+    border: none;
+}
+
+hr:before {
+    content: "--------------------------------------------------------------------------------"
+}
+
+blockquote {
+    margin-bottom: 16px;
+}
+
+img {
+    max-width: 640px;
+}
+
+fieldset {
+    border: 0;
+    margin-bottom: 16px;
+}
+
+figure > img {
+    width: 100%;
+}
+
+input[type=text],
+input[type=email],
+input[type=password] {
+    width: 100%;
+    margin-bottom: 16px;
+}
+
+textarea {
+    width: 100%;
+    margin-bottom: 16px;
+}
+
+legend {
+    width: 100%;
+    margin-bottom: 16px;
 }
